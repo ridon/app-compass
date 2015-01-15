@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.micode.compass"
+    package="id.ridon.compass"
     android:versionCode="1"
     android:versionName="0.1" >
 
@@ -28,7 +28,7 @@
     <application
         android:icon="@drawable/app_icon"
         android:label="@string/app_label"
-        android:taskAffinity="net.micode.compass" >
+        android:taskAffinity="id.ridon.compass" >
         <activity
             android:label="@string/app_label"
             android:name=".CompassActivity"

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.micode.compass;
+package id.ridon.compass;
 
 import android.content.Context;
 import android.graphics.Canvas;
